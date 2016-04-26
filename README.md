@@ -30,6 +30,3 @@ None
 Open issues/bugs 
 
 You should type a number when you make a selection. Please don’t type a string. 
-
-Phase 2 collaboration recommendation: 
-//?
