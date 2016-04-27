@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1461265599 source:/home/user/Desktop/Homework/Project/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Book.h"
+
+1461265117 source:/home/user/Desktop/Homework/Project/src/Book.cpp
+	"Book.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1461222732 /home/user/Desktop/Homework/Project/include/Book.h
+	<string>
+
+1461265600 source:/home/user/Downloads/Project/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Book.h"
+
+1461222732 /home/user/Downloads/Project/include/Book.h
+	<string>
+
+1461265640 source:/home/user/Downloads/Project/src/Book.cpp
+	"Book.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1461623660 source:/home/user/Project/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Book.h"
+
+1461560983 /home/user/Project/include/Book.h
+	<string>
+
+1461623460 source:/home/user/Project/src/Book.cpp
+	"Book.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1461623660 source:/home/user/Wang_Qian_CSCI2270_FinalProject/Project/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"Book.h"
+
+1461560983 /home/user/Wang_Qian_CSCI2270_FinalProject/Project/include/Book.h
+	<string>
+
+1461623460 source:/home/user/Wang_Qian_CSCI2270_FinalProject/Project/src/Book.cpp
+	"Book.h"
+	<iostream>
+	<fstream>
+	<sstream>
+

@@ -1,0 +1,20 @@
+1,Adventures of Huckleberry Finn,Mark Twain,10
+2,Gulliver's Travels,Jonathan Swift,9
+3,Robinson Crusoe,Daniel Defoe,9
+4,To Kill A Mockingbird,Harper Lee,8
+5,Lord of the Rings,JRR Tolkien,20
+6,Pride and Prejudice,Jane Austen,5
+7,The Da Vinci Code,Dan Brown,2
+8,Wuthering Heights,Emily Bronte,10
+9,Animal Farm,George Orwell,16
+10,Harry Potter,JK Rowling,25
+11,Lord of the Flies,William Golding,17
+12,The Time Travellers Wife,Audrey Niffenegger,20
+13,Gone With the Wind,Margaret Mitchell,3
+14,War and Peace,Leo Tolstoy,5
+15,Memoirs of a Geisha,Arthur Golden,2
+16,The Great Gatsby,F. Scott Fitzgerald,7
+17,The Kite Runner,Khaled Hosseini,8
+18,Jane Eyre,Charlotte Bronte,3
+19,Anna Kareninia,Leo Tolstoy,4
+20,Madame Bovary,Gustave Flaubert,15
